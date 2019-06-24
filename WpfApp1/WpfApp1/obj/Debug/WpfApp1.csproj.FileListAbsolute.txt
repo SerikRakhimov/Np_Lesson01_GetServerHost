@@ -1,0 +1,15 @@
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\GetServerHost\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\GetServerHost\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\GetServerHost\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\GetServerHost\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\GetServerHost\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\GetServerHost\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\GetServerHost\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\GetServerHost\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\GetServerHost\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\GetServerHost\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\GetServerHost\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\GetServerHost\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\GetServerHost\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\GetServerHost\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\GetServerHost\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
